@@ -2,17 +2,38 @@ body {
     background-color: #7EE0B7;
 }
 
+#imagem_principal {
+    width: 20%;
+    border: 10px dotted rgb(224, 104, 104);
+    margin-left: 35%;
+}
+
+
 h1 {
     text-align: center;
 }
-
+h2 {
+    color: #213B30;
+    text-align: left;
+    font-size: 30px;
+    border: 5px solid red;
+    padding:30px ;
+    margin-left: 50px;
+}
 p {
     font-size: 20px;
     text-align: justify;
 }
-
-h2 {
-    color: #213B30;
+#A{
     text-align: center;
-    font-size: 30px;
+    color: rgb(17, 8, 147);
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+.itens{
+    font-style: italic;
+    font-size: 20px;
+    color: red;
 }
