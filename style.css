@@ -5,7 +5,7 @@ body {
 #imagem_principal {
     width: 20%;
     border: 10px dotted rgb(224, 104, 104);
-    margin-left: 35%;
+    margin-left: 39%;
 }
 
 
@@ -32,8 +32,24 @@ h3{
     text-align: center;
     font-size: 25px;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20%;
+    margin-top: 8%;
+}
+.M{
+    width: 28px;
+}
+.IM{
+    width: 30%;
+}
 .itens{
     font-style: italic;
     font-size: 20px;
     color: red;
+}
+.exemplo{
+    display: inline-block;
+    width: 25px;
 }
